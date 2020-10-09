@@ -42,10 +42,28 @@ assign one to x and then run the following code `print(x)`, afterwards go to the
 
 (iterate means "to cycle through", we iterate 'over' lists)
 
-## Range function: `range(start, finish, increase)`
+## Range function: `range(start, finish)`
 
 the range functions is how most people first learn to use for loops
 the functions is simple, you say what index you wish to start at, and which one to end at.
-This is useful because if you know you want to run your for loop only 5 times then you can 
+This is useful because if you know you want to run your for loop only, lets say, 5 times--then you can.
+
+the range function will bring you the list of numbers from your start to finish
+
+```
+r = range(0,5)
+print(r)
+```
+![](https://imgur.com/84xHYVf.jpg)
+
+You want to make a loop that only cycles 5 times then do this:
+
+```
+for x in range(0,5):
+  print(x)
+```
+
+![](https://imgur.com/3xHLLxY.jpg)
+
 
 
