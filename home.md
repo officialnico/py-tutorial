@@ -73,4 +73,4 @@ it's up to you what you use that 'data' for.
 * libraries are python's way of storing functions so that we don't have to
 * sys is a library used for interacting with the system and terminal
 
-
+#### [next part](https://github.com/officialnico/py-tutorial/blob/main/for_loops.md)
