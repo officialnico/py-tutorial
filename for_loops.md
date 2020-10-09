@@ -31,6 +31,10 @@ output:
 
 ![imgur](https://imgur.com/P21TLAT.jpg)
 
+#### how `for x in a:` reads:	
+"for every element in a `["elm1", "elm2", "elm3"]`
+assign one to x and then run the following code `print(x)`, afterwards go to the next element"	
+
 
 #### illustration:
 ![](https://i.imgur.com/91NoaP0.jpg)
