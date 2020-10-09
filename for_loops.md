@@ -89,3 +89,5 @@ b[1]=='green'
 b[2]=='blue'
 b[3]=='yellow'
 ```
+
+![](https://imgur.com/dyFep7h.jpg)
