@@ -13,8 +13,8 @@ or more generically
   Think about it, do you want to be asked for input everytime? or just put it into the same command that runs the program
   
 ### Passing arguments through the usual way: 
-`x = input("enter number: ")
-\nprint(x)`
+```x = input("enter number: ")
+print(x)```
 
 ![using input()](https://i.imgur.com/VHa4Ujo.png)
 
