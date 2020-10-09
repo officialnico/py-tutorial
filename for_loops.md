@@ -128,3 +128,20 @@ print(result)
 ```
 ![](https://imgur.com/dVmDORD.jpg)
 
+the most important thing you take away from this is 
+
+`[x*2 for x in given_list]`
+
+you can do any operation here believe it or not, heres a few:
+
+`[x**2 for x in given_list] #x squared` 
+
+`[print(x) for x in given_list] #print x`
+
+`[x+2 for x in given_list] #addition`
+
+`[x-2 for x in given_list] #substraction`
+
+the point is you can do **literally** any operation in python on every element from a list and store it in a new one, 
+they will definitely ask you about this so remember that format
+
