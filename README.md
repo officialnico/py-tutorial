@@ -45,7 +45,12 @@ arg1 == sys.argv[1]
 arg2 == sys.argv[2]
 arg3 == sys.argv[3]
 ```
- 
+##### "equals equals" aka `==`
+1==1 is true
+1==2 is false
+'==' is just telling you whether the two items are equal instead of '=' which will assign it a value (i.e x='apples' vs x=='apples')
+![imgur](https://imgur.com/8sJSOR9.jpg)
+
 
 ### Passing one argument through the terminal
 most of the time you will want to take one argument so all you need to do is this:
@@ -57,11 +62,6 @@ store it in a variable (in this case x) and use it as the input.
 Examples of this input could be a integer, string, float... anything can be passed as an argument,
 it's up to you what you use that 'data' for.
 
-#### "equals equals" aka `==`
-1==1 is true
-1==2 is false
-'==' is just telling you whether the two items are equal instead of '=' which will assign it a value (i.e x='apples' vs x=='apples')
-![imgur](https://imgur.com/8sJSOR9.jpg)
 
 ### Notes:
 * terminal arguments are useful because we don't have to ask the user for input(), taking up time.
