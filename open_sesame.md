@@ -45,7 +45,7 @@ Let's clean this and extract the data that we want.
 
   `text = text.strip()`
 
-  .strip() is a string function that you can use on any string variable 
+  .strip() is a string function that you can use on any string variable, it will take off any sorrounding empty spaces (i.e "   hi    " turns to "hi")   
   
 ![](https://imgur.com/c5ewqqZ.jpg)
   
