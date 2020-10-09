@@ -60,8 +60,8 @@ Let's clean this and extract the data that we want.
   
 #### 3. Separate the rows by the commas
   ```
-  for row in rows:
-    row=rows
+  for row_i in range(0,len(rows)):
+    rows[row_i]=rows[row_i].split(',')
   ```
   
 #### 4. Create a nested for loop to go through each element in rows
