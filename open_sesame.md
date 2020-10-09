@@ -14,6 +14,7 @@ therefore this is very useful as there is no other <em>relevant</em> way of stor
 there are only 2 permissions you have to understand
 
 `'r'` permission for reading the file
+
 `'w'` permission for writing the file
 
 let's **read** a file, this could be **any** type of file (i.e '.txt', '.csv')
