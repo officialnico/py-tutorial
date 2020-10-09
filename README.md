@@ -61,6 +61,7 @@ it's up to you what you use that 'data' for.
 1==1 is true
 1==2 is false
 '==' is just telling you whether the two items are equal instead of '=' which will assign it a value (i.e x='apples' vs x=='apples')
+![imgur](https://imgur.com/8sJSOR9.jpg)
 
 ### Notes:
 * terminal arguments are useful because we don't have to ask the user for input(), taking up time.
