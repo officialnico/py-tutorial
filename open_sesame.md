@@ -1,4 +1,4 @@
-# Open files: 🧙‍♂️
+# Opening files (in python): 🧙‍♂️
 
 Why do you want to open a file in python? well a lot of data will come in a file such as the .csv files
 this is used to store data and as python programmers we want to manipulate and analyze data so getting the data from this file
