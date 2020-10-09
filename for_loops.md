@@ -27,6 +27,10 @@ for x in a:
   print(x)
 ```
 
+output: 
+![imgur](https://imgur.com/P21TLAT.jpg)
+
+
 how `for x in a` reads:
 "for every element in a, assign the current one to x and then run the following code"
 + afterwards we move onto the next element until the list is done
