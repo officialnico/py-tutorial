@@ -16,7 +16,9 @@ if you notice a problem, you might be onto something because there is one!
 
 You have to cycle through these elements to print them pretty... but how?
 
-Use a for loop! anytime you're asked to cycle through a list you can use for loops
+Use a for loop! anytime you're asked to cycle through a list for loops are the way to go!
+
+look how easy and efficient this is
 
 ```
 a = ["elm1", "elm2", "elm3"]
