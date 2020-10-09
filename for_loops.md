@@ -8,7 +8,7 @@ so say you have a list 'a' of any number (or type) of elements
 
 Try to print every single one of those elements like this
 
-~[imgur](https://imgur.com/P21TLAT.jpg)
+![imgur](https://imgur.com/P21TLAT.jpg)
 
 i'll wait 😌
 
