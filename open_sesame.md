@@ -33,3 +33,14 @@ always make sure to close your file otherwise you'll get an error
 
 this is what the file looks like opened with your mac TextEdit
 ![](https://imgur.com/cf4gf9j.jpg)
+
+and this is what it looks like when we run this code above:
+![](https://imgur.com/2fSSkzW.jpg)
+
+Now you gotta take in when python is getting this its all one big string, no separation, its up to you to do that.
+
+Let's clean this and extract the data that we want. 
+
+1. Get rid of the ugly space at the bottom **text.strip()**
+`text = text.strip()`
+ that will get rid of any spaces on the outsides of the string
