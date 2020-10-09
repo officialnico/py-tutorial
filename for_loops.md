@@ -12,7 +12,7 @@ Try to print every single one of those elements like this
 
 i'll wait 😌
 
-if you notice a problem, you might be onto something because there is one XD
+if you notice a problem, you might be onto something because there is one! 🤯
 
 You have to cycle through these elements to print them pretty... but how?
 
