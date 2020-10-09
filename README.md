@@ -12,7 +12,7 @@ or more generically
   then you don't have to ask the user for input.
   Think about it, do you want to be asked for input everytime? or just put it into the same command that runs the program
   
-### Passing arguments through the usual way: 
+### Passing arguments through input() the usual way: 
 ```
 x = input("enter number: ")
 print(x)
