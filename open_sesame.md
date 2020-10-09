@@ -4,7 +4,7 @@ Why do you want to open a file in python? well a lot of data will usually come i
 this is used to store data and as python programmers we want to manipulate and analyze data, so getting the data from a file 
 into a python variable would extremely useful.
 
-Not only does this allow you to read files, but also to <em>write to<em/> files as well, which can store the data we give it (i.e variables, strings, data, etc).
+Not only does this allow you to read files, but also to write to files as well, which can store the data we give it (i.e variables, strings, data, etc).
   
 This can allow your program to store information on your drive, unlike variables, this data won't be wiped everytime python is closed.
 therefore this is very useful as there is no other <em>relevant<em/> way of storing data permanently on your computer in python.
