@@ -15,7 +15,7 @@ there are only 2 permissions you have to understand
 
 `'r'` permission for reading the file
 
-`'w'` permission for writing the file
+`'w'` permission for writing to the file
 
 let's **read** a file, this could be **any** type of file (i.e '.txt', '.csv')
 
@@ -29,4 +29,4 @@ text = file.read()
 file.close() #important to close file
 print(text)
 ```
-always make sure to close your file otherwise you'll get an error
+always make sure to close your file otherwise you'll get an error: `file.close()` 
