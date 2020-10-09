@@ -39,6 +39,8 @@ and this is what it looks like when we run this code above:
 
 Now you gotta take in when python is getting this its all one big string, no separation, its up to you to do that.
 
+### To extract the data from a .csv file!
+
 Let's clean this and extract the data that we want. 
 
 #### 1. Get rid of the ugly space at the bottom 
