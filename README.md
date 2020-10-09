@@ -57,7 +57,7 @@ store it in a variable (in this case x) and use it as the input.
 Examples of this input could be a integer, string, float... anything can be passed as an argument,
 it's up to you what you use that 'data' for.
 
-### ==
+#### "equals equals" aka `==`
 1==1 is true
 1==2 is false
 '==' is just telling you whether the two items are equal instead of '=' which will assign it a value (i.e x='apples' vs x=='apples')
