@@ -45,4 +45,6 @@ Let's clean this and extract the data that we want.
 
 `text = text.strip()`
 
- that will get rid of any spaces on the outsides of the string
+ strip is a string function that you can use on any string variable of your, just like `st.lower()`
+ 
+ `st.strip()`  will get rid of any spaces on the outsides of the string
