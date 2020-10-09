@@ -64,7 +64,7 @@ Let's clean this csv [file](https://github.com/officialnico/py-tutorial/blob/mai
   
 #### 3. Separate the each row in the list rows by the commas
 
-  ###### len() function: (length)
+  ###### len() function: aka length
   `len(rows)` will return the amount of elements in said list (in this case 2)
   
   `len("random string")` will return the number of characters in that string
