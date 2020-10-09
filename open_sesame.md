@@ -64,8 +64,8 @@ Let's clean this csv [file](https://github.com/officialnico/py-tutorial/blob/mai
   
 #### 3. Separate the each row in the list rows by the commas
   ```
-  for row_i in range(0,len(rows)):
-    rows[row_i]=rows[row_i].split(',')
+  for i in range(0,len(rows)):
+    rows[i]=rows[i].split(',')
   ```
   ###### len():
   `len(rows)` will return the amount of elements in said list (in this case 2)
@@ -76,7 +76,7 @@ Let's clean this csv [file](https://github.com/officialnico/py-tutorial/blob/mai
   the reason why i used the range function was because it was easier to understand in this case and I'm not sure the other method can be applied here
   range is simpler than the other way so keep it in mind when you get stuck 👌
   
- 
+![](https://imgur.com/apYlBkL.jpg) 
   
 #### 4. Create a nested for loop to go through each element in rows
 
