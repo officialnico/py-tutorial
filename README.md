@@ -31,10 +31,15 @@ print(x)
 ### sys.argv 
   sys.argv is an array of all the arguments given at the command line,
   the first argument is always the filename
+ 
+```
+import sys
+print(sys.argv)
+```
   
 ![Imgur](https://i.imgur.com/8w9xQSq.jpg)
   
-  
+ 
 
 ### Passing arguments through the terminal
 ```
