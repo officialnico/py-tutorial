@@ -30,3 +30,6 @@ file.close() #important to close file
 print(text)
 ```
 always make sure to close your file otherwise you'll get an error 
+
+this is what the file looks like opened with your mac TextEdit
+![](https://imgur.com/cf4gf9j.jpg)
