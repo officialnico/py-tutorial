@@ -10,7 +10,7 @@ or more generically
 ### Why do we need to get arguments from the terminal?
   Passing arguments through the command line can be very useful because
   then you don't have to ask the user for input.
-  Think about it, do you want to be asked for input everytime? or just put it into the same command that runs the program
+  Think about it, do you want to be asked for input everytime? 
   
 ### Passing arguments through input() (the usual way): 
 ```
