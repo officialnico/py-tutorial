@@ -41,10 +41,36 @@ Now you gotta take in when python is getting this its all one big string, no sep
 
 Let's clean this and extract the data that we want. 
 
-1. Get rid of the ugly space at the bottom 
+#### 1. Get rid of the ugly space at the bottom 
 
-`text = text.strip()`
+  `text = text.strip()`
 
- strip is a string function that you can use on any string variable of your, just like `st.lower()`
+  strip is a string function that you can use on any string variable of your, just like `st.lower()`
  
- `st.strip()`  will get rid of any spaces on the outsides of the string
+  `st.strip()`  will get rid of any spaces on the outsides of the string
+  
+#### 2. Separate the text into different rows
+
+  as you might know new lines in python are represented by the string `"\n"` so you need to use the string split function
+  
+  `rows = text.split("\n")`
+  
+#### 3. Separate the rows by the commas
+  ```
+  for row in rows:
+    row=rows
+  ```
+  
+#### 4. Create a nested for loop to go through each element in rows
+
+  ```
+  for row in rows:
+    for element in row:
+      print(element)
+  ```
+  this will go through every element of every list stored in rows, this is one of the most important programming concepts
+  it might seem intimidating but it's a life hack once you understand it
+  
+  
+ 
+  
