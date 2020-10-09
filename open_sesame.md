@@ -40,7 +40,7 @@ and this is what it looks like when we run this code above:
 When python is opening this file its all one big string, no separation,
 its up to you to separate the values into lists that you can work with.
 
-### To extract the data from a .csv file!
+## To extract the data from a .csv file!
 
 Let's clean this and extract the data that we want. 
 
