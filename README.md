@@ -2,8 +2,10 @@
 
 ## How to get arguments from the terminal (command line):
 
-### What are arguments? Arguments are what you pass functions for example
+### What are arguments? Arguments are what you passing to functions in the () for example
 `print(arg1)`
+or more generically
+`function(arg1,arg2,arg3)`
 
 ### Why do we need to get arguments from the terminal?
   Passing arguments through the command line can be very useful because
@@ -14,5 +16,5 @@
 `x = input("enter number: ")
 print(x)'
 
-
+![using input()](https://i.imgur.com/VHa4Ujo.png)
 
