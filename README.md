@@ -32,7 +32,7 @@ print(x)
   sys.argv is an array of all the arguments given at the command line,
   the first argument is always the filename
   
-![Imgur](https://imgur.com/8w9xQSq) 
+![Imgur](https://imgur.com/8w9xQSq)
   
   
 
