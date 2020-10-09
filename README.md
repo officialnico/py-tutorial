@@ -1,3 +1,18 @@
 # Python Notes 🌁
 
-### d
+## How to get arguments from the terminal (command line):
+
+### What are arguments? Arguments are what you pass functions for example
+`print(arg1)`
+
+### Why do we need to get arguments from the terminal?
+  Passing arguments through the command line can be very useful because
+  then you don't have to ask the user for input.
+  Think about it, do you want to be asked for input everytime? or just put it into the same command that runs the program
+  
+### Passing arguments through the usual way: 
+`x = input("enter number: ")
+print(x)'
+
+
+
