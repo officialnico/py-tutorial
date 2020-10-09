@@ -34,3 +34,5 @@ output:
 
 #### how `for x in a:` reads:
 "for every element in a, assign one to x and then run the following code, afterwards go to the next element"
+
+![](https://i.imgur.com/91NoaP0.jpg)
