@@ -47,9 +47,16 @@ arg3 == sys.argv[3]
 ```
  
 
-### Passing arguments through the terminal
-most of the time you will want to take one argument
+### Passing one argument through the terminal
+most of the time you will want to take one argument so all you need to do is this:
 ```
 import sys
-sys.argv[1]  
+x = sys.argv[1]  
 ```
+store it in a variable (in this case x) and use it as the input.
+Examples of this input could be a integer, string, float... anything can be passed as an argument,
+it's up to you what you use that 'data' for.
+
+
+
+
