@@ -134,13 +134,21 @@ the most important thing you take away from this is
 
 you can do any operation here believe it or not, heres a few:
 
-`[x**2 for x in given_list] #x squared` 
+##### Numbers 
+for lists made up of numbers
 
-`[print(x) for x in given_list] #print x`
+`[x**2 for x in given_list] #x squared` 
 
 `[x+2 for x in given_list] #addition`
 
 `[x-2 for x in given_list] #substraction`
+
+##### Strings
+for lists made up of strings
+
+`[s.higher() for s in given_list] #uppercase s (string)`
+
+`[s.lower() for s in given_list] #lowercase s`
 
 the point is you can do **literally** any operation in python on every element from a list and store it in a new one, 
 they will definitely ask you about this so remember that format
