@@ -58,7 +58,11 @@ Let's clean this csv [file](https://github.com/officialnico/py-tutorial/blob/mai
   
   `rows = text.split("\n")`
   
-#### 3. Separate the rows by the commas
+  ![](https://imgur.com/eQIw71M.jpg)
+  
+  keep in mind these are strings we need to split those even further
+  
+#### 3. Separate the each row in the list rows by the commas
   ```
   for row_i in range(0,len(rows)):
     rows[row_i]=rows[row_i].split(',')
@@ -71,6 +75,8 @@ Let's clean this csv [file](https://github.com/officialnico/py-tutorial/blob/mai
   in conclusion: len() is a useful function for finding the length of things, specially useful in this scenarario
   the reason why i used the range function was because it was easier to understand in this case and I'm not sure the other method can be applied here
   range is simpler than the other way so keep it in mind when you get stuck 👌
+  
+ 
   
 #### 4. Create a nested for loop to go through each element in rows
 
