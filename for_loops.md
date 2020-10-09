@@ -91,3 +91,28 @@ b[3]=='yellow'
 ```
 
 ![](https://imgur.com/dyFep7h.jpg)
+
+# List comprehensions ✌️🏖
+
+You thought for loops were dope, wait till you hear about list comprehensions.
+
+I'm gonna make this one very simple, this is all you'll need to know about them so write it down
+
+list comprehesion lets us make a list of elements that we've performed some operation on from another list, this can be anything
+
+say we need to make a list of all [2,3,6,4] mulitplied by 2, desired output is [4,6,12,8]
+
+Go ahead try it out... 
+
+commonly the answer would be:
+
+```
+given_list = [2,3,6,4]
+result = []
+for x in given_list:
+  result.append(x*2)
+print(result)
+```
+![](https://imgur.com/jqT8qNs.jpg)
+
+
