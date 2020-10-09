@@ -56,7 +56,7 @@ print(r)
 ```
 ![](https://imgur.com/84xHYVf.jpg)
 
-therefore `range(0,5)==[0,1,2,3,4]
+therefore, in this case `range(0,5)==[0,1,2,3,4]`
 
 You want to make a loop that only cycles 5 times then do this:
 
