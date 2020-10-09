@@ -1,6 +1,6 @@
 # Python Notes 🌁
 
-[before any notes...](https://drive.google.com/file/d/18jZJEWA5Vb1xizvEsBBXcElfxalSDDSh/view?usp=sharing)
+[first](https://drive.google.com/file/d/18jZJEWA5Vb1xizvEsBBXcElfxalSDDSh/view?usp=sharing)
 
 ## How to get arguments from the terminal (command line):
 
