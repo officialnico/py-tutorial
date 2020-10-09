@@ -39,11 +39,17 @@ print(sys.argv)
   
 ![Imgur](https://i.imgur.com/8w9xQSq.jpg)
   
+in this example
+```
+arg1 == sys.argv[1]
+arg2 == sys.argv[2]
+arg3 == sys.argv[3]
+```
  
 
 ### Passing arguments through the terminal
+most of the time you will want to take one argument
 ```
 import sys
 sys.argv[1]  
-
 ```
