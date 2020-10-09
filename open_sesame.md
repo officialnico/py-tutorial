@@ -42,7 +42,7 @@ its up to you to separate the values into lists that you can work with.
 
 ## To extract the data from a .csv file! 🌈
 
-Let's clean this and extract the data that we want. 
+Let's clean this csv [file](https://github.com/officialnico/py-tutorial/blob/main/numbers.csv) and extract the data that we want. 
 
 #### 1. Get rid of the ugly space at the bottom 
 
@@ -64,7 +64,7 @@ Let's clean this and extract the data that we want.
     rows[row_i]=rows[row_i].split(',')
   ```
   ###### len():
-  `len(rows)` will return the amount of elements in said list
+  `len(rows)` will return the amount of elements in said list (in this case 2)
   
   `len("random string")` will return the number of characters in that string
   
