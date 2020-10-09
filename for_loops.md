@@ -65,5 +65,24 @@ for x in range(0,5):
 
 ![](https://imgur.com/3xHLLxY.jpg)
 
+You might be asking yourself why this is useful but if you have a list that is **strictly** 5 elements you don't want
+cause an index error by asking for an element that isn't there such as the 6th, 7th, ... element
 
+this is where range functions are the most useful, list indexes
 
+```
+b = ['red', 'green', 'blue', 'yellow']
+for x in range(0,4):
+  print(b[x])
+```
+![](https://imgur.com/X1pvjyc.jpg)
+
+why does this work? because:
+```
+range(0,4)==[0,1,2,3]
+
+b[0]=='red'
+b[1]=='green'
+b[2]=='blue'
+b[3]=='yellow'
+```
