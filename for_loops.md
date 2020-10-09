@@ -58,7 +58,8 @@ print(r)
 
 therefore, in this case `range(0,5)==[0,1,2,3,4]`
 
-You want to make a loop that only cycles 5 times then do this:
+For a lot of problems you'll have to make a loop that only cycles a certain number of times if 
+you want to make a loop that only cycles 5 times then do this:
 
 ```
 for x in range(0,5):
