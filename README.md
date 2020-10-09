@@ -39,7 +39,7 @@ print(sys.argv)
   
 ![Imgur](https://i.imgur.com/8w9xQSq.jpg)
   
-in this example
+in this example 
 ```
 arg1 == sys.argv[1]
 arg2 == sys.argv[2]
@@ -57,6 +57,14 @@ store it in a variable (in this case x) and use it as the input.
 Examples of this input could be a integer, string, float... anything can be passed as an argument,
 it's up to you what you use that 'data' for.
 
+### ==
+1==1 is true
+1==2 is false
+'==' is just telling you whether the two items are equal instead of '=' which will assign it a value (i.e x='apples' vs x=='apples')
 
+### Notes:
+* terminal arguments are useful because we don't have to ask the user for input(), taking up time.
+* libraries are python's way of storing functions so that we don't have to
+* sys is a library used for interacting with the system and terminal
 
 
