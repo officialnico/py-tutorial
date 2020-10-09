@@ -34,6 +34,3 @@ output:
 
 #### how `for x in a:` reads:
 "for every element in a, assign one to x and then run the following code, afterwards go to the next element"
-+ afterwards we move onto the next element until the list is done
-
-this is why printing x will print the current elem
