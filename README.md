@@ -47,7 +47,9 @@ arg3 == sys.argv[3]
 ```
 ##### "equals equals" aka `==`
 1==1 is true
+
 1==2 is false
+
 '==' is just telling you whether the two items are equal instead of '=' which will assign it a value (i.e x='apples' vs x=='apples')
 ![imgur](https://imgur.com/8sJSOR9.jpg)
 
