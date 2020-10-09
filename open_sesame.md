@@ -37,7 +37,8 @@ this is what the file looks like opened with your mac TextEdit
 and this is what it looks like when we run this code above:
 ![](https://imgur.com/2fSSkzW.jpg)
 
-Now you gotta take in when python is getting this its all one big string, no separation, its up to you to do that.
+When python is opening this file its all one big string, no separation,
+its up to you to separate the values into lists that you can work with.
 
 ### To extract the data from a .csv file!
 
