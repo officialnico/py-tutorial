@@ -2,7 +2,7 @@
 
 they sound scary but for loops are the best thing ever, I'm going to try to convince you
 
-so say you have a list 'a' of any number of elements
+so say you have a list 'a' of any number (or type) of elements
 
 `a = ["elm1", "elm2", "elm3"]`
 
