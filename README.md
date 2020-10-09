@@ -14,7 +14,7 @@ or more generically
   
 ### Passing arguments through the usual way: 
 `x = input("enter number: ")
-print(x)`
+\nprint(x)`
 
 ![using input()](https://i.imgur.com/VHa4Ujo.png)
 
