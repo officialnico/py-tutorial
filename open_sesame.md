@@ -63,12 +63,12 @@ Let's clean this and extract the data that we want.
   for row_i in range(0,len(rows)):
     rows[row_i]=rows[row_i].split(',')
   ```
-  ##### len():
-  `len(rows)` will return the amount of elements in said list
-  `len("random string")` will return the number of characters in that string
-  in conclusion: len() is a useful function for finding the length of things, specially useful in this scenarario
-  the reason why i used the range function was because it was easier to understand in this case and I'm not sure the other method can be applied here
-  range is simpler than the other way so keep it in mind when you get stuck 👌
+      ##### len():
+      `len(rows)` will return the amount of elements in said list
+      `len("random string")` will return the number of characters in that string
+      in conclusion: len() is a useful function for finding the length of things, specially useful in this scenarario
+      the reason why i used the range function was because it was easier to understand in this case and I'm not sure the other method can be applied here
+      range is simpler than the other way so keep it in mind when you get stuck 👌
   
 #### 4. Create a nested for loop to go through each element in rows
 
