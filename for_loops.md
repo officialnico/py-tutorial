@@ -12,9 +12,11 @@ Try to print every single one of those elements like this
 
 i'll wait 😌
 
-if you notice a problem, you might be onto something because there is one! 🤯
+if you notice a problem, you might be onto something because there is one!
 
 You have to cycle through these elements to print them pretty... but how?
+
+Use a for loop! anytime you're asked to cycle through a list you can use for loops
 
 ```
 a = ["elm1", "elm2", "elm3"]
