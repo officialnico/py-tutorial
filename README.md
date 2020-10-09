@@ -2,7 +2,7 @@
 
 ## How to get arguments from the terminal (command line):
 
-### What are arguments? Arguments are what you passing to functions in the () for example
+### What are arguments? Arguments are what you passing to functions in the parentheses ():
 `print(arg1)`
 or more generically
 `function(arg1,arg2,arg3)`
