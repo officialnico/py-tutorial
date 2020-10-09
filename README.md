@@ -1,6 +1,6 @@
-# Python Notes 🌁
-
 [first](https://drive.google.com/file/d/18jZJEWA5Vb1xizvEsBBXcElfxalSDDSh/view?usp=sharing)
+
+# Python Notes 🌁
 
 ## How to get arguments from the terminal (command line):
 
