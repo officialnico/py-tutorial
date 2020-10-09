@@ -1,5 +1,7 @@
 # for loops 🏔☯️
 
+![first](https://drive.google.com/file/d/18jZJEWA5Vb1xizvEsBBXcElfxalSDDSh/view?usp=sharing)
+
 they sound scary but for loops are the best thing ever, I'm going to try to convince you
 
 so say you have a list 'a' of any number (or type) of elements
@@ -40,3 +42,11 @@ assign one to x and then run the following code `print(x)`, afterwards go to the
 ![](https://i.imgur.com/91NoaP0.jpg)
 
 (iterate means "to cycle through", we iterate 'over' lists)
+
+## Range function: `range(start, finish, increase)`
+
+the range functions is how most people first learn to use for loops
+the functions is simple, you say what index you wish to start at, and which one to end at.
+This is useful because if you know you want to run your for loop only 5 times then you can 
+
+
