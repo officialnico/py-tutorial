@@ -1,6 +1,5 @@
 # for loops 🏔☯️
 
-[first](https://drive.google.com/file/d/18jZJEWA5Vb1xizvEsBBXcElfxalSDDSh/view?usp=sharing)
 
 they sound scary but for loops are the best thing ever, I'm going to try to convince you
 
