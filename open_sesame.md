@@ -73,7 +73,7 @@ Let's clean this csv [file](https://github.com/officialnico/py-tutorial/blob/mai
   the reason why i used the range function was because it was easier to understand in this case and I'm not sure the other method can be applied here
   range is simpler than the other way so keep it in mind when you get stuck 👌
   
-  ###### using len in a range for loop:
+  ###### using len in a range(start, finish) for loop:
  this is needed in our case of splitting every element up by the comma, but still keeping it in the 'rows' list
   ```
   for i in range(0,len(rows)):
