@@ -63,7 +63,7 @@ Let's clean this and extract the data that we want.
   for row_i in range(0,len(rows)):
     rows[row_i]=rows[row_i].split(',')
   ```
-  ##### len():
+  ###### len():
   `len(rows)` will return the amount of elements in said list
   `len("random string")` will return the number of characters in that string
   in conclusion: len() is a useful function for finding the length of things, specially useful in this scenarario
