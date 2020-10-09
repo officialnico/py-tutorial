@@ -29,4 +29,4 @@ text = file.read()
 file.close() #important to close file
 print(text)
 ```
-always make sure to close your file `file.close() #as seen above` otherwise you'll get an error 
+always make sure to close your file otherwise you'll get an error 
