@@ -38,3 +38,4 @@ assign one to x and then run the following code `print(x)`, afterwards go to the
 
 #### illustration:
 ![](https://i.imgur.com/91NoaP0.jpg)
+(iterate means "to cycle through", we iterate 'over' lists)
