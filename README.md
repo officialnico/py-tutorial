@@ -20,3 +20,25 @@ print(x)
 
 ![using input()](https://i.imgur.com/VHa4Ujo.png)
 
+### sys
+  sys (system) is a python library that will help you in performing system related tasks,
+  usually this involves interacting with the terminal. 
+  Since it's a library you have to import it.
+  put this at the top of your code:
+  `import sys`
+  
+
+### sys.argv 
+  sys.argv is an array of all the arguments given at the command line,
+  the first argument is always the filename
+  
+![Imgur](https://imgur.com/8w9xQSq) 
+  
+  
+
+### Passing arguments through the terminal
+```
+import sys
+sys.argv[1]  
+
+```
