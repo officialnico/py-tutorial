@@ -9,7 +9,7 @@ Not only does this allow you to read files, but also to <em>write</em> to files 
 This can allow your program to store information on your hard drive, unlike variables, this data won't be wiped everytime python is closed.
 therefore this is very useful as there is no other <em>relevant</em> way of storing data permanently on your computer in python.
 
-##The open function: `open(filename, permission)`
+## The open function: `open(filename, permission)`
 
 there are only 2 permissions you have to understand
 
