@@ -41,6 +41,8 @@ Now you gotta take in when python is getting this its all one big string, no sep
 
 Let's clean this and extract the data that we want. 
 
-1. Get rid of the ugly space at the bottom **text.strip()**
+1. Get rid of the ugly space at the bottom 
+
 `text = text.strip()`
+
  that will get rid of any spaces on the outsides of the string
