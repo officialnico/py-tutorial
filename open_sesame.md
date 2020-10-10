@@ -1,8 +1,8 @@
 # Opening files (in python!): 🧙‍♂️
 
-Why do you want to open a file in python? well a lot of data will usually come in files such as the .csv files
-this is used to store data and as python programmers we want to manipulate and analyze data, so getting the data from a file 
-into a python variable would extremely useful.
+Why do you want to open a file in python? well a lot of data will usually come in files such as .csv files
+this is used to store data and as python programmers we want to manipulate and analyze data, so getting data from a file 
+into a python variable would be extremely useful.
 
 Not only does this allow you to read files, but also to <em>write</em> to files as well, which can store the data we give it (i.e variables, strings, data, etc).
   
