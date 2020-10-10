@@ -5,7 +5,7 @@ import os
 #ill show you how to fix that
 
 #you want to change this file's working directory to the one where the file is located 
-#(ik its crazy but the script has a variable called __file__ which is set when you first make the file as the directory,
+#(ik its crazy but the script has a variable called __file__ which is set when you first make the file as the directory),
 #and we have to change that to our current directory
 #Whenever you have this issue of: No such file or directory: 'numbers.csv'
 #make sure to enter the following code to change the directory to the script directory whenever working with open()
