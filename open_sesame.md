@@ -69,9 +69,11 @@ Let's clean this csv file [numbers.csv](https://github.com/officialnico/py-tutor
   
   `len("random string")` will return the number of characters in that string
   
-  in conclusion: len() is a useful function for finding the length of things, specially useful when dealing with `range()` in for loops
-  the reason why i used the range function was because it was easier to understand in this case and easy to manipulate the elements based on index,
-  this is good when you want to take some element, modify it, and **replace** the element previously in it's place 👌 
+  in conclusion: len() is a useful function for finding the length of things, specially useful when dealing with `range()` in for loops. 
+  You can always do `range(0,len(l))` and have a reliable for loop based on index rather than actual elements like in the other examples.
+  
+  The reason why i choose the range function here is because it is easier to manipulate the elements based on index in this case,
+  this is good when you want to take some element, modify it, and **replace** it in it's list 👌 
   
   ##### using len() in a range(start, finish) for loop:
  this is needed in our case of splitting every element up by the comma, but still keeping it in the 'rows' list
