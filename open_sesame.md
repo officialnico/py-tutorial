@@ -113,7 +113,8 @@ for row in rows:
   for element in row:
     print(element)
 ```
-  
+![](https://imgur.com/wkeHsfo.jpg) 
+ 
 ## Ex. Pick only the grades over 60, and put their position (index) in a list corresponding to the grade's list
 
 input (numbers.csv): 
