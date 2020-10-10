@@ -54,7 +54,7 @@ Let's clean this csv file [numbers.csv](https://github.com/officialnico/py-tutor
   
 #### 2. Separate the text into different rows
 
-  as you might know new lines in python are represented by the string `"\n"` so you need to use the `string.split(char)` function
+  as you might know new lines in python are represented by the string `"\n"` so you need to use the **`string.split(char)`** function
   
   `rows = text.split("\n")`
   
