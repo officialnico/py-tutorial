@@ -92,6 +92,35 @@ b[3]=='yellow'
 
 ![](https://imgur.com/dyFep7h.jpg)
 
+## Nested for loop:
+
+a nested for loop is simpler than it seems, sometimes you have a list where every element is a list itself. 
+for example: 
+`a = [[8,2,3], [6,4,7]]`
+
+to go through every elements we can do a loop to go through each list, as you know if we want to get every element we have to get the list it's in, then interate over every element in that list
+
+```
+a = [[8,2,3], [6,4,7]]
+for l in a: #l is a list
+  for e in l: #e is an element of the current list
+    print(e)
+```
+
+![](https://imgur.com/OamF8a9.jpg)
+
+if we want to refer to what row we're in, which you will have to when doing these problems.
+The row in this problem is represented by `l` which you can access in your nested loop
+
+```
+a = [[8,2,3], [6,4,7]]
+for l in a: 
+  for e in l: 
+    print('list: ', l, 'element:', e) 
+```
+
+![](https://imgur.com/Bf16gEu.jpg)
+
 ##### [do this problem](https://www.hackerrank.com/challenges/python-loops)
 
 
