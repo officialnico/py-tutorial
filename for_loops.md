@@ -1,7 +1,7 @@
 # for loops 🏔☯️
 
 
-they sound scary but for loops are the best thing ever, I'm going to try to convince you
+They sound scary but for loops are the best thing ever, I'm going to try to convince you
 
 so say you have a list 'a' of any number (or type) of elements
 
@@ -49,7 +49,7 @@ the range functions is how most people first learn to use for loops because of h
 The range function is simple: you say what index you wish to start at, and which one to end at.
 
 This is useful because if you know you want to run your for loop only, lets say, 5 times--then you can.
-the range function will bring you the list of numbers from your start to finish.
+The range function will bring you the list of numbers from your start to finish.
 
 ```
 r = range(0,5)
@@ -69,8 +69,8 @@ for x in range(0,5):
 
 ![](https://imgur.com/3xHLLxY.jpg)
 
-You might be asking yourself why this is useful but if you have a list that is **strictly** 5 elements you don't want
-cause an index error by asking for an element that isn't there such as the 6th, 7th, ... element
+You might be asking yourself why this is useful but if you have a list that is **strictly** x number of elements (such as 5) you don't want
+cause an index error by asking for an element that isn't there (such as the 6th, 7th, ... element)
 
 this is where range functions are the most useful, list indexes
 
@@ -132,7 +132,7 @@ You thought for loops were dope, wait till you hear about list comprehensions.
 
 I'm gonna make this one very simple, this is all you'll need to know about them so write it down
 
-list comprehesion lets us make a list of elements that we've performed some operation on, from another list, this can be anything
+list comprehesion lets us make a list of elements that we've performed some operation on, from some other list's elements
 
 say we need to make a list of all [2,3,6,4] mulitplied by 2, desired output is [4,6,12,8]
 
@@ -184,8 +184,8 @@ for lists made up of strings
 
 `[s.lower() for s in given_list] #lowercase s`
 
-the point is you can do **literally** any operation in python on every element from a list and store it in a new one, 
-they will definitely ask you about this so remember that format
+the point is you can do **literally** any operation (with a return) in python on every element from a list and store it in a new list, 
+they will definitely ask you about this so remember that format.
 
 #### Video:
 [![watch](https://img.youtube.com/vi/AhSvKGTh28Q/0.jpg)](https://www.youtube.com/watch?v=AhSvKGTh28Q)
