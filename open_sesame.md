@@ -120,7 +120,7 @@ keep in mind these numbers are still strings, when we go to compare them later w
 currently:
 `rows==[['22', '36', '82', '20'], ['89', '21', '23', '134']]`
 
-#### The `list.index(element)` Function:
+## The `list.index(element)` Function:
 this will return the index of element in list
 Keep this in mind for later as it's useful for replacing values
 `1 == rows.index(['89', '21', '23', '134'])`
