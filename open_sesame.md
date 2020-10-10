@@ -97,7 +97,6 @@ Let's clean this csv file [numbers.csv](https://github.com/officialnico/py-tutor
 
 input: 
 [![watch](https://imgur.com/ADYR9OJ.jpg)](https://github.com/officialnico/py-tutorial/blob/main/numbers.csv)
-[numbers.csv](https://github.com/officialnico/py-tutorial/blob/main/numbers.csv)
 
 output:
 ```
