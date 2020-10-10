@@ -96,6 +96,7 @@ b[3]=='yellow'
 
 a nested for loop is simpler than it seems, sometimes you have a list where every element is a list itself. 
 for example: 
+
 `a = [[8,2,3], [6,4,7]]`
 
 to go through every elements we can do a loop to go through each list, as you know if we want to get every element we have to get the list it's in, then interate over every element in that list
