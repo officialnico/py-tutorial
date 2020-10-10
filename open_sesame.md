@@ -93,7 +93,7 @@ Let's clean this csv file [numbers.csv](https://github.com/officialnico/py-tutor
       print(element)
   ```
   this will go through every element of every list stored in rows, this is one of the most important programming concepts
-  it might seem intimidating but it's a life hack once you understand it
+  it might seem intimidating but it's a life hack once you understand it.
   
 #### 5. Conclusion: 
 
