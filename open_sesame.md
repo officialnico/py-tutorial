@@ -115,7 +115,7 @@ for row in rows:
 ```
 ![](https://imgur.com/wkeHsfo.jpg) 
  
-## Ex. Pick only the grades over 60, and put their position (index) in a list corresponding to the grade's list
+## Ex. Pick only the grades over 60, and put their position (index) in a list corresponding to the grade's list, and take the name of the csv file as a [command line argument](https://github.com/officialnico/py-tutorial/blob/main/home.md#how-to-get-arguments-from-the-terminal-command-line) 
 
 input (numbers.csv): 
 [![watch](https://imgur.com/ADYR9OJ.jpg)](https://github.com/officialnico/py-tutorial/blob/main/numbers.csv)
