@@ -45,7 +45,6 @@ for row in rows:
     current_element_i = row.index(element)
     rows[current_row_i][current_element_i] = float(element)
 
-
 big_list = []
 for row in rows: 
   small_list = [] #small list resets every time
@@ -62,3 +61,7 @@ for l in big_list:
 #Output:
 #[0, 1, 3]
 #[1, 2]
+
+#Note: there is no right answer in coding, you just throw it at the wall and see what sticks,
+#if this seems less than simple try making it yourself it seems a lot simpler when you write it :) 
+#you are smart, kind, courageous, and curious, you got this!
