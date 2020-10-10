@@ -127,7 +127,7 @@ in this case:
 
 `1 == rows.index(['89', '21', '23', '134'])`
  
-## Ex. Pick only the grades over 65, and put their position (index) in a list corresponding to the grade's list, and take the name of the csv file as a [command line argument](https://github.com/officialnico/py-tutorial/blob/main/home.md#how-to-get-arguments-from-the-terminal-command-line) 
+## Ex. Pick only the grades over 65, and put their position (index) in a list corresponding to the grade's list, and take the name of the csv file as a [command line argument](https://github.com/officialnico/py-tutorial/blob/main/README.md#how-to-get-arguments-from-the-terminal-command-line) 
 
 input (numbers.csv): 
 [![watch](https://imgur.com/ADYR9OJ.jpg)](https://github.com/officialnico/py-tutorial/blob/main/numbers.csv)
