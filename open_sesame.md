@@ -116,6 +116,7 @@ for row in rows:
 ![](https://imgur.com/wkeHsfo.jpg) 
 
 keep in mind these numbers are still strings, when we go to compare them later we will have to deal with this by using `float()`
+
 `rows==[['22', '36', '82', '20'], ['89', '21', '23', '134']]`
  
 ## Ex. Pick only the grades over 65, and put their position (index) in a list corresponding to the grade's list, and take the name of the csv file as a [command line argument](https://github.com/officialnico/py-tutorial/blob/main/home.md#how-to-get-arguments-from-the-terminal-command-line) 
