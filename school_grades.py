@@ -59,3 +59,6 @@ for row in rows:
 for l in big_list:
   print(l)
   
+#Output:
+#[0, 1, 3]
+#[1, 2]
