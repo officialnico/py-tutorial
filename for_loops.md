@@ -45,10 +45,12 @@ assign one to x and then run the following code `print(x)`, afterwards go to the
 ## Range function: `range(start, finish)`
 
 the range functions is how most people first learn to use for loops because of how easy it is.
-then range function is simple, you say what index you wish to start at, and which one to end at.
+
+The range function is simple: you say what index you wish to start at, and which one to end at.
+
 This is useful because if you know you want to run your for loop only, lets say, 5 times--then you can.
 
-the range function will bring you the list of numbers from your start to finish
+the range function will bring you the list of numbers from your start to finish.
 
 ```
 r = range(0,5)
