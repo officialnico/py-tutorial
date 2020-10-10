@@ -95,7 +95,7 @@ Let's clean this csv file [numbers.csv](https://github.com/officialnico/py-tutor
   
 #### Ex. Pick only the grades under 60, and put their position (index) in a list corresponding to it's list
 
-input: 
+input (numbers.csv): 
 [![watch](https://imgur.com/ADYR9OJ.jpg)](https://github.com/officialnico/py-tutorial/blob/main/numbers.csv)
 
 output:
