@@ -137,7 +137,7 @@ the most important thing you take away from this is
 
 you can do any operation here believe it or not, heres a few:
 
-##### Numbers 
+###### Numbers 
 for lists made up of numbers
 
 `[x**2 for x in given_list] #x squared` 
@@ -146,7 +146,7 @@ for lists made up of numbers
 
 `[x-2 for x in given_list] #substraction`
 
-##### Strings
+###### Strings
 for lists made up of strings
 
 `[s.higher() for s in given_list] #uppercase s (string)`
