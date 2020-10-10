@@ -54,6 +54,7 @@ in this example
 
 '==' is just telling you whether the two items are equal.
 Instead of '=' which will assign it a value (i.e x='apples' vs x=='apples')
+
 ![imgur](https://imgur.com/8sJSOR9.jpg)
 
 
@@ -73,4 +74,4 @@ it's up to you what you use that 'data' for.
 * libraries are python's way of storing functions so that we don't have to
 * sys is a library used for interacting with the system and terminal
 
-#### [next part](https://github.com/officialnico/py-tutorial/blob/main/for_loops.md)
+#### [next page](https://github.com/officialnico/py-tutorial/blob/main/for_loops.md)
