@@ -157,6 +157,8 @@ the point is you can do **literally** any operation in python on every element f
 they will definitely ask you about this so remember that format
 
 #### Video:
+[![watch](https://img.youtube.com/vi/AhSvKGTh28Q/0.jpg)](https://www.youtube.com/watch?v=AhSvKGTh28Q)
+
 [watch it here](https://www.youtube.com/watch?v=AhSvKGTh28Q)
 
 
