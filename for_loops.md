@@ -112,7 +112,7 @@ for l in a: #l is a list
 ![](https://imgur.com/OamF8a9.jpg)
 
 if we want to refer to what row we're in, which you will have to when doing these problems.
-The current list here is represented by `l` which you can access in your nested loop
+The current list here is represented by `l` which you can access from within your nested loop
 
 ```
 a = [[8,2,3], [6,4,7]]
