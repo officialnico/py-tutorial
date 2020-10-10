@@ -93,7 +93,7 @@ Let's clean this csv file [numbers.csv](https://github.com/officialnico/py-tutor
   this will go through every element of every list stored in rows, this is one of the most important programming concepts
   it might seem intimidating but it's a life hack once you understand it
   
-### Ex. Pick only the grades under 60, and put their position (index) in a list corresponding to it's list
+## Ex. Pick only the grades under 60, and put their position (index) in a list corresponding to it's list
 
 input (numbers.csv): 
 [![watch](https://imgur.com/ADYR9OJ.jpg)](https://github.com/officialnico/py-tutorial/blob/main/numbers.csv)
