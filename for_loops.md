@@ -49,7 +49,6 @@ the range functions is how most people first learn to use for loops because of h
 The range function is simple: you say what index you wish to start at, and which one to end at.
 
 This is useful because if you know you want to run your for loop only, lets say, 5 times--then you can.
-
 the range function will bring you the list of numbers from your start to finish.
 
 ```
