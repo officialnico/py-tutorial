@@ -64,7 +64,7 @@ Let's clean this csv file [numbers.csv](https://github.com/officialnico/py-tutor
   
 #### 3. Separate the each row in the list rows by the commas
 
-  ###### len() function: aka length
+  ##### len() function: aka length
   `len(rows)` will return the amount of elements in said list (in this case 2)
   
   `len("random string")` will return the number of characters in that string
@@ -73,7 +73,7 @@ Let's clean this csv file [numbers.csv](https://github.com/officialnico/py-tutor
   the reason why i used the range function was because it was easier to understand in this case and easy to manipulate the elements based on index,
   this is good when you want to take some element, modify it, and **replace** the element previously in it's place 👌 
   
-  ###### using len() in a range(start, finish) for loop:
+  ##### using len() in a range(start, finish) for loop:
  this is needed in our case of splitting every element up by the comma, but still keeping it in the 'rows' list
   ```
   for i in range(0,len(rows)):
