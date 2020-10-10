@@ -64,4 +64,4 @@ for l in big_list:
 
 #Note: there is no right answer in coding, you just throw it at the wall and see what sticks,
 #if this seems less than simple try making it yourself it seems a lot simpler when you write it :) 
-#you are smart, kind, courageous, and curious, you got this!
+#you are intelligent, kind, courageous, and curious, you got this!
