@@ -57,7 +57,6 @@ Instead of '=' which will assign it a value (i.e x='apples' vs x=='apples')
 
 ![imgur](https://imgur.com/UjL5Q5G.jpg)
 
-
 ### Passing one argument through the terminal
 most of the time you will want to take one argument so all you need to do is this:
 ```
@@ -67,7 +66,6 @@ x = sys.argv[1]
 store it in a variable (in this case x) and use it as the input.
 Examples of this input could be a integer, string, float... anything can be passed as an argument,
 it's up to you what you use that 'data' for.
-
 
 ### Notes:
 * terminal arguments are useful because we don't have to ask the user for input(), taking up time.
