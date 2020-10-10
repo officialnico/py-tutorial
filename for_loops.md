@@ -156,6 +156,7 @@ for lists made up of strings
 the point is you can do **literally** any operation in python on every element from a list and store it in a new one, 
 they will definitely ask you about this so remember that format
 
-[watch this video](https://www.youtube.com/watch?v=AhSvKGTh28Q)
+#### Video:
+[watch it here](https://www.youtube.com/watch?v=AhSvKGTh28Q)
 
 
