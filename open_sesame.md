@@ -117,7 +117,7 @@ for row in rows:
 ```
 ![](https://imgur.com/wkeHsfo.jpg) 
 
-keep in mind these numbers are still strings, when we go to compare them later we will have to deal with this by using `float()`
+keep in mind these numbers are still strings. When we go to compare them later we will have to convert them by using `float()`
 
 currently:
 `rows==[['22', '36', '82', '20'], ['89', '21', '23', '134']]`
