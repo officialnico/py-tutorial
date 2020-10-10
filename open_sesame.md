@@ -42,7 +42,7 @@ its up to you to separate the values into lists that you can work with.
 
 ## To extract the data from a .csv file! 🌈
 
-Let's clean this csv [file](https://github.com/officialnico/py-tutorial/blob/main/numbers.csv) and extract the data that we want. 
+Let's clean this csv file [numbers.csv](https://github.com/officialnico/py-tutorial/blob/main/numbers.csv) and extract the data that we want. 
 
 #### 1. Get rid of the ugly space at the bottom 
 
@@ -93,6 +93,9 @@ Let's clean this csv [file](https://github.com/officialnico/py-tutorial/blob/mai
   this will go through every element of every list stored in rows, this is one of the most important programming concepts
   it might seem intimidating but it's a life hack once you understand it
   
-  
+##### Ex. Pick only the grades under 60, and put their position (index) in a list corresponding to it's list
+
+[numbers.csv](https://github.com/officialnico/py-tutorial/blob/main/numbers.csv)
+![](https://imgur.com/ADYR9OJ.jpg)
  
   
