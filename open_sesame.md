@@ -21,7 +21,7 @@ let's **read** a file, this could be **any** type of file (i.e '.txt', '.csv')
 
 first we have to make sure that the file is in the same folder as the script
 
-for this example let's open and get the data from example filename 'numbers.csv' and lets take that string data (it will always be a string when using open), and put it in a variable.
+for this example let's open and get the data from 'numbers.csv' and lets take that string data (it will always be a string when using open), and put it in a variable.
 
 ```
 file = open('numbers.csv','r')
@@ -37,7 +37,7 @@ this is what the file looks like opened with your mac TextEdit
 and this is what it looks like when we run this code above:
 ![](https://imgur.com/2fSSkzW.jpg)
 
-When python is opening this file its all one big string, no separation,
+When python is opening this file it's all one big string, no separation,
 its up to you to separate the values into lists that you can work with.
 
 ## To extract the data from a .csv file! 🌈
@@ -54,7 +54,7 @@ Let's clean this csv file [numbers.csv](https://github.com/officialnico/py-tutor
   
 #### 2. Separate the text into different rows
 
-  as you might know new lines in python are represented by the string `"\n"` so you need to use the string split function
+  as you might know new lines in python are represented by the string `"\n"` so you need to use the `string.split(char)` function
   
   `rows = text.split("\n")`
   
@@ -69,9 +69,9 @@ Let's clean this csv file [numbers.csv](https://github.com/officialnico/py-tutor
   
   `len("random string")` will return the number of characters in that string
   
-  in conclusion: len() is a useful function for finding the length of things, specially useful in this scenarario
-  the reason why i used the range function was because it was easier to understand in this case and I'm not sure the other method can be applied here
-  range is simpler than the other way so keep it in mind when you get stuck 👌
+  in conclusion: len() is a useful function for finding the length of things, specially useful when dealing with `range()` in for loops
+  the reason why i used the range function was because it was easier to understand in this case and easy to manipulate the elements based on index,
+  this is good when you want to take some element, modify it, and **replace** the element previously in it's place 👌 
   
   ###### using len() in a range(start, finish) for loop:
  this is needed in our case of splitting every element up by the comma, but still keeping it in the 'rows' list
