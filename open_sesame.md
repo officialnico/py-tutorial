@@ -93,7 +93,28 @@ Let's clean this csv file [numbers.csv](https://github.com/officialnico/py-tutor
   this will go through every element of every list stored in rows, this is one of the most important programming concepts
   it might seem intimidating but it's a life hack once you understand it
   
-## Ex. Pick only the grades under 60, and put their position (index) in a list corresponding to it's list
+#### 5. Conclusion: 
+
+to bring it all together your final code should look like this
+
+```
+file = open('numbers.csv','r')
+text = file.read()
+file.close() #important to close the file after reading
+
+text = text.strip()
+
+rows = text.split("\n")
+
+for i in range(0,len(rows)):
+  rows[i]=rows[i].split(',')
+    
+for row in rows:
+  for element in row:
+    print(element)
+```
+  
+## Ex. Pick only the grades over 60, and put their position (index) in a list corresponding to the grade's list
 
 input (numbers.csv): 
 [![watch](https://imgur.com/ADYR9OJ.jpg)](https://github.com/officialnico/py-tutorial/blob/main/numbers.csv)
@@ -103,6 +124,7 @@ output:
 [0,1,3]
 [1,2]
 ```
+
 
 
 
