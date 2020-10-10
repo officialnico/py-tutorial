@@ -123,6 +123,8 @@ currently:
 ## The `list.index(element)` Function:
 this will return the index of element in list
 Keep this in mind for later as it's useful for replacing values
+in this case:
+
 `1 == rows.index(['89', '21', '23', '134'])`
  
 ## Ex. Pick only the grades over 65, and put their position (index) in a list corresponding to the grade's list, and take the name of the csv file as a [command line argument](https://github.com/officialnico/py-tutorial/blob/main/home.md#how-to-get-arguments-from-the-terminal-command-line) 
