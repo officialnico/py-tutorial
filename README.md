@@ -1,4 +1,4 @@
-# Python Notes [🌁](https://drive.google.com/file/d/18jZJEWA5Vb1xizvEsBBXcElfxalSDDSh/view?usp=sharing)
+# Python Notes [🌁](https://drive.google.com/file/d/14FmL1tkDmZKhzAq5dqMIeZc9rwXT743v/view?usp=sharing)
 
 before you start click on the bridge ↑
 
