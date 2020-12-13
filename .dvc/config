@@ -1,0 +1,4 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = https://ltfdata.s3.filebase.com/StandardCryptoV1.pkl
